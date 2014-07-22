@@ -2,5 +2,6 @@
 
 ifeq ($(__ENABLE_THIRDPARTY),1)
 # CXXFLAGS += -I<include directory>
+# CFLAGS += -I<include directory>
 # __ELIBS  += <library, *.a>
 endif
