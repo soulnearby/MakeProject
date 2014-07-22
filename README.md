@@ -11,3 +11,9 @@ hierarchy src folder e.g.
     src
       app
         version
+
+
+
+====
+How to use
+make -C <COMPONENT>/obj/<BUILD_TY>
