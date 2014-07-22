@@ -1,0 +1,1 @@
+__COMPONENT_DEPS = Demo_APP Demo_C_Component Demo_CXX_Component
